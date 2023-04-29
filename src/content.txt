@@ -1,0 +1,11 @@
+Your Result 
+
+Great 
+
+Summary 
+Reaction 80 / 100 
+Memory 92 / 100 
+Verbal 61 / 100 
+Visual 72 / 100 
+Continue
+Challenge by Frontend Mentor. Coded by Adam Breslin.
